@@ -30,6 +30,7 @@ Curawella Meta Healthcare Software - *Alexandria, Egypt* - **Jul 2019 - Oct 2019
 - JavaScript
 - TypeScript
 - React Native
+- Redux
 - Node.js
 - Express.js
 - Firebase
