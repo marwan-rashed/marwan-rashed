@@ -19,7 +19,7 @@ Studying Computer Engineering - @Alexnadria Higher Institute of Engineernig and 
 ---
 ### Work Experience
 
-#### Node.js Developer - Internship
+#### Node.js Developer
 Curawella Meta Healthcare Software - *Alexandria, Egypt* - **Sep 2021 - Oct 2021**
 
 #### React Native Developer - Internship
