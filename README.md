@@ -14,7 +14,7 @@ Interested in coding, reading and learning new technologies.</br>
 ---
 
 ### Education
-Studying Computer Engineering - @Alexnadria Higher Institute of Engineernig and Technology (AIET) - [ Class of 2022 ]
+Studyied Computer Engineering - @Alexnadria Higher Institute of Engineernig and Technology (AIET) - [ Class of 2022 ]
 
 ---
 ### Work Experience
@@ -35,10 +35,10 @@ Curawella Meta Healthcare Software - *Alexandria, Egypt* - **Jul 2019 - Oct 2019
 - Express.js
 - Firebase
 - MongoDB
-- Dart
-- Flutter
 - MySQL
 - AWS
+- Dart
+- Flutter
 
 ---
 ### Reach me
