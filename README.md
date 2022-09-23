@@ -12,18 +12,21 @@ Interested in coding, reading and learning new technologies.</br>
 </p>
 
 ---
-
-### Education
-Studyied Computer Engineering - @Alexnadria Higher Institute of Engineernig and Technology (AIET) - [ Class of 2022 ]
-
----
 ### Work Experience
+
+#### Software Engineer (Node.js)
+IT LAND GROUP - *Alexandria, Egypt* - **Aug 2022 - Present**
 
 #### Node.js Developer
 Curawella Meta Healthcare Software - *Alexandria, Egypt* - **Sep 2021 - Oct 2021**
 
 #### React Native Developer - Internship
 Curawella Meta Healthcare Software - *Alexandria, Egypt* - **Jul 2019 - Oct 2019**
+
+---
+
+### Education
+Studyied Computer Engineering - @Alexnadria Higher Institute of Engineernig and Technology (AIET) - [ Class of 2022 ]
 
 ---
 ### Languages and Tools
