@@ -7,7 +7,7 @@
 
 <p align="center">
 I am Marwan.</br>
-I am an Entry-Level software engineer.</br>
+I am a software engineer.</br>
 Interested in coding, reading and learning new technologies.</br>
 </p>
 
