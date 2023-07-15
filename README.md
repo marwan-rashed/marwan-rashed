@@ -26,7 +26,7 @@ Curawella Meta Healthcare Software - *Alexandria, Egypt* - **Jul 2019 - Oct 2019
 ---
 
 ### Education
-Studyied Computer Engineering - @Alexnadria Higher Institute of Engineernig and Technology (AIET) - [ Class of 2022 ]
+Studied Computer Engineering - @Alexnadria Higher Institute of Engineernig and Technology (AIET) - [ Class of 2022 ]
 
 ---
 ### Languages and Tools
