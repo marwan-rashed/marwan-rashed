@@ -15,7 +15,10 @@ Interested in coding, reading and learning new technologies.</br>
 ### Work Experience
 
 #### Software Engineer (Node.js)
-IT LAND GROUP - *Alexandria, Egypt* - **Aug 2022 - Present**
+Byteplus - *Cairo, Egypt* - **Oct 2024 - Present**
+
+#### Software Engineer (Node.js)
+IT LAND GROUP - *Alexandria, Egypt* - **Aug 2022 - Sep 2024**
 
 #### Node.js Developer
 Curawella Meta Healthcare Software - *Alexandria, Egypt* - **Sep 2021 - Oct 2021**
